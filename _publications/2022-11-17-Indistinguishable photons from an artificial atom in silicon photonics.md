@@ -6,6 +6,6 @@ excerpt: 'Silicon is the ideal material for building electronic and photonic cir
 date: 2022-11-17
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/pdf/2211.09305'
-citation: 'Komza, Lukasz. Indistinguishable photons from an artificial atom in silicon photonics. arXiv. (2022).'
+citation: 'Komza, Lukasz et al. Indistinguishable photons from an artificial atom in silicon photonics. <i>arXiv.<\i> (2022). https://doi.org/10.48550/arXiv.2211.09305'
 ---
 

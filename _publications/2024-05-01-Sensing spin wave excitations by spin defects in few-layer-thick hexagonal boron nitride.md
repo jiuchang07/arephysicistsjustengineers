@@ -6,6 +6,6 @@ excerpt: 'Optically active spin defects in wide bandgap semiconductors serve as 
 date: 2024-05-01
 venue: 'Science Advances'
 paperurl: 'https://doi.org/10.1126/sciadv.adk8495'
-citation: 'Jingcheng Zhou et al., Sensing spin wave excitations by spin defects in few-layer-thick hexagonal boron nitride. Sci. Adv. 10, eadk8495 (2024). DOI:10.1126/sciadv.adk8495'
+citation: 'Jingcheng Zhou et al., Sensing spin wave excitations by spin defects in few-layer-thick hexagonal boron nitride. <i>Sci. Adv. 10, eadk8495<\i> (2024). https://doi.org/10.1126/sciadv.adk8495'
 ---
 
