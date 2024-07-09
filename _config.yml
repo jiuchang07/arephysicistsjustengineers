@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Jiu Chang"
   pronouns         : "she/her"  
-  bio              : "Ph.D. Student in Physics"
+  bio              : # "Integrated quantum photonics"
   location         : "Atlanta, GA"
   employer         : "Georgia Tech"
-  uri              : "https://physics.gatech.edu/user/jiu-chang"
+  uri              : "https://jiuchang07.github.io/arephysicistsjustengineers"
   email            : "jchang427@gatech.edu" 
 
   # Academic websites

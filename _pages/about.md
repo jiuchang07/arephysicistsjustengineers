@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I like researching. I'm currently working with [Professor Ali Adibi](https://sites.gatech.edu/ece-prg/people/adibi/) on integrated optics and metasurfaces. We aspire to build high-sensitivity room-temperature magnetometry from vapor cells deploying metalens-based pump and probe beams.
+My name is Jiu Chang. I am a second-year Ph.D. student in Physics at Georgia Institute of Technology. Currently, I am studying integrated optics and metasurfaces with [Professor Ali Adibi](https://sites.gatech.edu/ece-prg/people/adibi/). We aspire to build high-sensitivity room-temperature magnetometry from vapor cells deploying metalens-based pump and probe beams.
+
+<!-- Before coming to Georgia Tech, I worked with [Professor Alp Sipahigil] -->
 
 Quantum information science
 ======
